@@ -1,0 +1,15 @@
+{
+  "name": "GoJS Sankey for Angular",
+  "version": "1.0.0",
+  "description": "Angular implementation of the GoJS Sankey diagram example",
+  "main": "index.html",
+  "dependencies": {
+    "gojs": "^1.7.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugène van Kampen",
+  "license": "ISC"
+}

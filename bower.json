@@ -1,0 +1,9 @@
+{
+  "name": "GoJS Sankey for Angular",
+  "description": "Angular implementation of the GoJS Sankey diagram example",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.6"
+  },
+  "devDependencies": {}
+}

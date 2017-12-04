@@ -1,0 +1,8 @@
+node_modules/**/*
+public/**/*
+._.DS_STORE
+*.log
+*.log.*
+nohup.out
+*.sublime-project
+*.sublime-workspace
